@@ -6,13 +6,34 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Hello World!"
+    <!--<Button
+        android:id="@+id/btn_escanear"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="60dp"
+        android:background="@color/colorPrimaryDark"
+        android:textColor="@color/colorWhite"
+        android:text="@string/btn_escanear"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:layout_constraintTop_toTopOf="parent"
+        android:onClick="barcodeReco"/>-->
+
+    <SurfaceView
+        android:id="@+id/sv_cameraPreview"
+        android:layout_width="match_parent"
+        android:layout_height="300dp" />
+    
+    <TextView
+        android:id="@+id/tv_result"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintBottom_toBottomOf="parent"
+        android:layout_marginBottom="100dp"
+        android:text="@string/txt_focus"
+        android:textSize="18sp"
+        android:gravity="center"
+        />
 
 </android.support.constraint.ConstraintLayout>

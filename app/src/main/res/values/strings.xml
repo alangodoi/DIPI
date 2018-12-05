@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">DIPI</string>
+    <string name="btn_escanear">Escanear Código</string>
+    <string name="txt_focus">Foque a câmera no código de barras</string>
+    <string name="txt_product_description"><b> Produto:</b> Pão Panco – Pão de forma integral\n\n
+    <b>Peso:</b> 500 gramas\n\n
+    <b>Rotulagem Nutricional:</b> 116 calorias equivalem a 2 fatias e ½, estas calorias são baseadas em uma dieta de 2000 calorias.\n\n
+    <b>ATENÇÃO AOS ALÉRGICOS</b>\n
+        O produto contém: Glúten, Trigo, Leite, Soja, Aveia\n\n
+        <b>PODE CONTER:</b> Ovo, cevada, centeio, avelã, castanha-do-pará e triticale. Contém lactose\n\n
+    <b>Ingredientes:</b> Farinha de trigo integral, farinha de trigo enriquecida com ferro e acido fólico (acido fólico é importante para as gestantes), açúcar mascavo, glúten de trigo ( contra indicado para portadores de doença celíaca), gordura vegetal, sal refinado, farelo de trigo, farinha de aveia, soro de leite em pó (contra indicado para intolerantes a lactose), fibra de soja, fibra de trigo, sal light, conservadores, propionato de cálcio e sorbato de potássio (são sais anti mofo, inibidores de crescimento de fungos e bactérias), emulsificante mono e diglicerídeos de ácidos graxos e antioxidante, acido ascórbico
+    </string>
+    <string name="txt_product_unknown">Este produto não está cadastrado</string>
+
 </resources>
