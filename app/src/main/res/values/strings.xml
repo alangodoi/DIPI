@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Nutri Vision</string>
+    <string name="app_name">Inclusive Nutrition</string>
     <string name="btn_escanear">Escanear Código</string>
     <string name="txt_focus">Foque a câmera no código de barras</string>
     <string name="txt_product_image">Imagem do produto</string>
