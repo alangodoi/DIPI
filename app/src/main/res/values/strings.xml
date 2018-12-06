@@ -1,7 +1,8 @@
 <resources>
-    <string name="app_name">DIPI</string>
+    <string name="app_name">Nutri Vision</string>
     <string name="btn_escanear">Escanear Código</string>
     <string name="txt_focus">Foque a câmera no código de barras</string>
+    <string name="txt_product_image">Imagem do produto</string>
     <string name="txt_product_description"><b> Produto:</b> Pão Panco – Pão de forma integral\n\n
     <b>Peso:</b> 500 gramas\n\n
     <b>Rotulagem Nutricional:</b> 116 calorias equivalem a 2 fatias e ½, estas calorias são baseadas em uma dieta de 2000 calorias.\n\n
@@ -12,4 +13,23 @@
     </string>
     <string name="txt_product_unknown">Este produto não está cadastrado</string>
 
+    <string name="tela_login">Abrir tela de Login</string>
+    <string name="tela_registro">Abrir tela de Cadastro</string>
+    <string name="menu_config">Configurações</string>
+    <string name="menu_about">Sobre</string>
+
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Senha</string>
+    <string name="hint_altura">Altura</string>
+    <string name="hint_name">Nome Completo</string>
+    <string name="btn_login">ACESSAR</string>
+    <string name="btn_register">CADASTRAR</string>
+    <string name="btn_link_to_register">Não tem um conta? Registre-se agora.</string>
+    <string name="btn_link_to_login">Já tenho uma conta! Acessar agora.</string>
+    <string name="welcome">Bem-vindo</string>
+    <string name="btn_logout">SAIR</string>
+    <string name="name">Nome Completo</string>
+
+    <string name="masculino">Masculino</string>
+    <string name="feminino">Feminino</string>
 </resources>
